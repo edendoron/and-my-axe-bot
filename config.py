@@ -1,0 +1,5 @@
+client_id = ""
+client_secret = ""
+password = ""
+user_agent = "and-my-axe-bot script by u/and-my-axt-bot"
+username = "and-my-axe-bot"
